@@ -6,6 +6,9 @@ body {
 a {
   margin-right: 1rem;
 }
+.inactive a{
+ line-height:2; 
+}
 
 main {
   text-align: center;
