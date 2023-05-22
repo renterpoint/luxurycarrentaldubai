@@ -25,8 +25,13 @@ export default function Root() {
       <Body>
         <Suspense>
           <ErrorBoundary>
-            <A href="/">Index</A>
-            <A href="/about">About</A>
+            <A href="/">Home</A>
+            <A href="https://renterpoint.com/luxury">Luxury Car Rental</A>
+            <A href="https://renterpoint.com/sports">Supercar Rental</A>
+             <A href="https://renterpoint.com/suv">SUV Rental</A>
+            <A href="https://renterpoint.com/cheap">Cheap Car Rental</A>
+             <A href="https://renterpoint.com/about-us">About us</A>
+         
             <Routes>
               <FileRoutes />
             </Routes>
