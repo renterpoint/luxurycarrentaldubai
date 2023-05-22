@@ -22,7 +22,7 @@ export default function Home() {
     
         <p>Another thing, If you're looking for a unique and unforgettable experience, an exotic car rental dubai is the perfect way to add some luxury to your next adventure. Whether you're planning a road trip, a special occasion, or just want to treat yourself, our high-performance vehicles are sure to impress. With top-of-the-line features and amenities, you'll feel like a VIP as you cruise down the road in style. Contact us today to book your dream car and start planning your next luxury getaway.</p>
       <h2>Best Exotic and Luxury Cars for Rent in Dubai</h2>  
-      <img src="~/components/Lamborghini URUS Rental Dubai.jpg">
+      <img src="/src/components/Lamborghini URUS Rental Dubai.jpg">
     </main>
   );
 }
